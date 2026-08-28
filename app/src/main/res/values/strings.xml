@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spotify Ad Muter</string>
+    <string name="notification_channel_name">Spotify Ad Muter Service</string>
+    <string name="notification_channel_desc">Monitors Spotify and mutes ads in real time</string>
+    <string name="service_running_title">Spotify Ad Muter Active</string>
+    <string name="service_running_desc">Listening for Spotify playback…</string>
+    <string name="ad_muted_title">Ad Muted 🔇</string>
+    <string name="ad_muted_desc">Media volume silenced</string>
+</resources>
